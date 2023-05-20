@@ -50,6 +50,4 @@ Start your development server
 ```
 
 ## Important Messages
-```
 Apologies for the delayed submission of this test, as I encountered difficulties during the data integration process in Nuxt.JS, which I am using for the first time. I sincerely apologize for not being able to complete this test successfully. However, I have completed the Back End and Front End slicing processes. Thank you for the opportunity to participate in the recruitment process with REDComm.
-```
